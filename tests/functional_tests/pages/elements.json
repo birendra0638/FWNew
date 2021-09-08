@@ -1,0 +1,24 @@
+{
+  "common": {
+    "search_text_box_id": "twotabsearchtextbox",
+    "sign_in_btn_xpath": "//*[@somthing]",
+    "hello_user_id": "nav-link-accountList-nav-line-1",
+    "another_ele": "//"
+  },
+
+  "home": {
+    "filter_dropdown_xpath": "//select[@aria-describedby='searchDropdownDescription']",
+    "suggestions_id": "suggestions",
+    "banner1": "",
+    "banner2": "//",
+    "banner3": ""
+  },
+
+  "seach_result": {
+    "ele_id": "newid",
+    "search_result_header_xpath_1": "//div[@class='a-section a-spacing-small a-spacing-top-small']/span[1]",
+    "search_result_header_xpath_2": "//div[@class='a-section a-spacing-small a-spacing-top-small']/span[3]",
+    "searched_items_xpath": ".//div[@class='s-main-slot s-result-list s-search-results sg-row']/div"
+  }
+
+}
